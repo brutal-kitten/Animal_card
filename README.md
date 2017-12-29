@@ -3,4 +3,4 @@ Animal Trading Cards Project for Front-End Nanodegree Program @Udacity
 
 My first project
 
-![This is result rendered by browser](relative/path/to/img.jpg?raw=true "Cute squirrel!")
+![This is result rendered by browser](result.png?raw=true "Cute squirrel!")
