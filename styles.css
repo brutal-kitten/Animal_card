@@ -1,0 +1,46 @@
+@font-face {
+  font-family: Arial, sans-serif;
+  font-size: 0.9em;
+}
+
+.container {
+  border: 1px solid gray;
+  background-color: #CFECEC;
+  border-radius: 20px;
+  width: 312px;
+  padding: 6px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(247,242,247,1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(247,242,247,1);
+  box-shadow: 10px 10px 5px 0px rgba(247,242,247,1);
+}
+.h2 {
+  width: 300px;
+  padding: 10px;
+  margin: 0;
+}
+.picture{
+  width: 300px;
+  padding: 6px;
+  border-radius: 20px;
+}
+.bottom {
+  font-family: Arial, sans-serif;
+  font-size: 0.9em;
+  background-color: white;
+  width: 290px;
+  border: 1px solid gray;
+  margin: 6px;
+  padding: 5px;
+  border-radius: 20px
+}
+.fact {
+  font-style:italic;
+}
+li span {
+  font-weight: bold;
+}
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
