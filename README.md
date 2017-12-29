@@ -1,4 +1,4 @@
-# Animal_card
+# Animal Card
 Animal Trading Cards Project for Front-End Nanodegree Program @Udacity
 
-My first project 
+My first project
